@@ -21,20 +21,6 @@ I enjoy creating real-world applications that solve practical problems and impro
 
 # 🚀 Projects
 
-### 🏥 Hospital Management System
-- Appointment booking system
-- Patient and doctor management
-- Admin dashboard
-
-### 💊 Online Medicine Store
-- E-commerce medicine platform
-- Product categories and cart system
-- Checkout functionality
-
-### 📚 Django E-Learning Platform
-- Study material management
-- Quiz system with timer
-- Recorded class sessions
 
 ### 💼 Job Portal Platform
 - 👤 User Authentication
@@ -77,14 +63,12 @@ I enjoy creating real-world applications that solve practical problems and impro
 - OpenAI APIs
 
 ## 🗄 Database
-- PostgreSQL
 - SQLite
 
 ## 🧰 Tools
 - Git
 - GitHub
 - VS Code
-- Docker (Learning)
 
 ---
 
